@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 //Operating System Project Submission - File System Development
-//Code by Karthik Priya Narayanasamy <Net id - xg7492>
+//Code by Karthik Priya Narayanasamy 
 public class FileSystem{
 	DirectoryStructure directoryStructure;
 	UserData userData;
